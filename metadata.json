@@ -1,0 +1,6 @@
+{
+  "name": "OmniLife",
+  "description": "All-in-one personal life management app: sleep & wake-up tracking, personal finance with double-entry balance sheet, trading journal, password-protected diary, screen time monitor, stopwatch activity tracker, daily planner, and PDF reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
